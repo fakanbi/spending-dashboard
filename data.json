@@ -1,0 +1,2557 @@
+[
+  {
+    "date": "2026-01-01",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 106.71,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-02",
+    "category": "Transport",
+    "merchant": "City Metro",
+    "amount": 56.54,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-03",
+    "category": "Healthcare",
+    "merchant": "Dental Clinic",
+    "amount": 77.33,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-04",
+    "category": "Entertainment",
+    "merchant": "AMC Theaters",
+    "amount": 45.1,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-05",
+    "category": "Entertainment",
+    "merchant": "Netflix",
+    "amount": 26.89,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-06",
+    "category": "Utilities",
+    "merchant": "PG&E",
+    "amount": 93.86,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-07",
+    "category": "Transport",
+    "merchant": "BP",
+    "amount": 79.79,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-08",
+    "category": "Shopping",
+    "merchant": "Nordstrom",
+    "amount": 128.04,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-09",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 140.45,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-10",
+    "category": "Dining",
+    "merchant": "Starbucks",
+    "amount": 53.43,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-11",
+    "category": "Groceries",
+    "merchant": "Safeway",
+    "amount": 124.79,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-12",
+    "category": "Entertainment",
+    "merchant": "AMC Theaters",
+    "amount": 22.17,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-13",
+    "category": "Entertainment",
+    "merchant": "Disney+",
+    "amount": 56.93,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-14",
+    "category": "Transport",
+    "merchant": "BP",
+    "amount": 22.71,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-15",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 2326.21,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-16",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 2481.23,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-17",
+    "category": "Transport",
+    "merchant": "BP",
+    "amount": 23.27,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-18",
+    "category": "Shopping",
+    "merchant": "Best Buy",
+    "amount": 115.84,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-19",
+    "category": "Rent",
+    "merchant": "Property Management Inc.",
+    "amount": 1742.13,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-20",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 177.61,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-21",
+    "category": "Utilities",
+    "merchant": "City Utilities",
+    "amount": 206.23,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-22",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 70.79,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-23",
+    "category": "Shopping",
+    "merchant": "Target",
+    "amount": 50.93,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-24",
+    "category": "Transport",
+    "merchant": "Uber",
+    "amount": 107.39,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-25",
+    "category": "Utilities",
+    "merchant": "AT&T",
+    "amount": 54.03,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-26",
+    "category": "Transport",
+    "merchant": "BP",
+    "amount": 27.48,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-27",
+    "category": "Dining",
+    "merchant": "Panera",
+    "amount": 30.95,
+    "isEssential": false
+  },
+  {
+    "date": "2026-01-28",
+    "category": "Utilities",
+    "merchant": "City Utilities",
+    "amount": 147.24,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-29",
+    "category": "Healthcare",
+    "merchant": "Health Insurance",
+    "amount": 60.03,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-30",
+    "category": "Groceries",
+    "merchant": "Trader Joe's",
+    "amount": 117.6,
+    "isEssential": true
+  },
+  {
+    "date": "2026-01-31",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 138.98,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-01",
+    "category": "Shopping",
+    "merchant": "Best Buy",
+    "amount": 142.97,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-02",
+    "category": "Dining",
+    "merchant": "McDonald's",
+    "amount": 25.34,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-03",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 2066.61,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-04",
+    "category": "Groceries",
+    "merchant": "Whole Foods",
+    "amount": 100.83,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-05",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 188.31,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-06",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 73.6,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-07",
+    "category": "Rent",
+    "merchant": "Property Management Inc.",
+    "amount": 2277.85,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-08",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1952.12,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-09",
+    "category": "Transport",
+    "merchant": "Uber",
+    "amount": 118.72,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-10",
+    "category": "Healthcare",
+    "merchant": "Walgreens",
+    "amount": 50.95,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-11",
+    "category": "Transport",
+    "merchant": "Parking Garage",
+    "amount": 118.2,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-12",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 2249.06,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-13",
+    "category": "Entertainment",
+    "merchant": "Hulu",
+    "amount": 13.86,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-14",
+    "category": "Transport",
+    "merchant": "Parking Garage",
+    "amount": 118.19,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-15",
+    "category": "Groceries",
+    "merchant": "Safeway",
+    "amount": 75,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-16",
+    "category": "Entertainment",
+    "merchant": "Ticketmaster",
+    "amount": 10.13,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-17",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 1939.71,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-18",
+    "category": "Entertainment",
+    "merchant": "Hulu",
+    "amount": 45.8,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-19",
+    "category": "Groceries",
+    "merchant": "Aldi",
+    "amount": 214.64,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-20",
+    "category": "Dining",
+    "merchant": "Panera",
+    "amount": 28.63,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1344.81,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-22",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 224.08,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-23",
+    "category": "Entertainment",
+    "merchant": "AMC Theaters",
+    "amount": 47.08,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-24",
+    "category": "Transport",
+    "merchant": "Uber",
+    "amount": 74.09,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-25",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 186.61,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Shopping",
+    "merchant": "Best Buy",
+    "amount": 154.06,
+    "isEssential": false
+  },
+  {
+    "date": "2026-02-27",
+    "category": "Groceries",
+    "merchant": "Costco",
+    "amount": 210.73,
+    "isEssential": true
+  },
+  {
+    "date": "2026-02-28",
+    "category": "Healthcare",
+    "merchant": "CVS Pharmacy",
+    "amount": 21.45,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-01",
+    "category": "Dining",
+    "merchant": "McDonald's",
+    "amount": 38.55,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-02",
+    "category": "Transport",
+    "merchant": "Uber",
+    "amount": 32.15,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-03",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 164.47,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-04",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 235.03,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-05",
+    "category": "Transport",
+    "merchant": "Lyft",
+    "amount": 88.96,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-06",
+    "category": "Entertainment",
+    "merchant": "Hulu",
+    "amount": 6.61,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-07",
+    "category": "Utilities",
+    "merchant": "PG&E",
+    "amount": 236.2,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-08",
+    "category": "Entertainment",
+    "merchant": "Netflix",
+    "amount": 34.85,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-09",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 249.14,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-10",
+    "category": "Shopping",
+    "merchant": "Best Buy",
+    "amount": 33.98,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-11",
+    "category": "Utilities",
+    "merchant": "AT&T",
+    "amount": 62.27,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-12",
+    "category": "Shopping",
+    "merchant": "Best Buy",
+    "amount": 93.78,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-13",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 103.99,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-14",
+    "category": "Dining",
+    "merchant": "Starbucks",
+    "amount": 68.88,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-15",
+    "category": "Dining",
+    "merchant": "McDonald's",
+    "amount": 79.22,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-16",
+    "category": "Dining",
+    "merchant": "Local Bistro",
+    "amount": 74.13,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-17",
+    "category": "Groceries",
+    "merchant": "Safeway",
+    "amount": 140.49,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-18",
+    "category": "Rent",
+    "merchant": "Property Management Inc.",
+    "amount": 1514.19,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-19",
+    "category": "Groceries",
+    "merchant": "Trader Joe's",
+    "amount": 207.72,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-20",
+    "category": "Healthcare",
+    "merchant": "CVS Pharmacy",
+    "amount": 52.27,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-21",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 97.68,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-22",
+    "category": "Groceries",
+    "merchant": "Safeway",
+    "amount": 247.44,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-23",
+    "category": "Entertainment",
+    "merchant": "Netflix",
+    "amount": 30.4,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-24",
+    "category": "Healthcare",
+    "merchant": "Walgreens",
+    "amount": 121.85,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-25",
+    "category": "Shopping",
+    "merchant": "Target",
+    "amount": 97.02,
+    "isEssential": false
+  },
+  {
+    "date": "2026-03-26",
+    "category": "Utilities",
+    "merchant": "City Utilities",
+    "amount": 97.75,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-27",
+    "category": "Healthcare",
+    "merchant": "Dental Clinic",
+    "amount": 131.17,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-28",
+    "category": "Groceries",
+    "merchant": "Trader Joe's",
+    "amount": 140.46,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-29",
+    "category": "Groceries",
+    "merchant": "Costco",
+    "amount": 82.02,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-30",
+    "category": "Rent",
+    "merchant": "Property Management Inc.",
+    "amount": 1337.08,
+    "isEssential": true
+  },
+  {
+    "date": "2026-03-31",
+    "category": "Dining",
+    "merchant": "Starbucks",
+    "amount": 53.68,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-01",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1207.72,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-02",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1410.62,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-03",
+    "category": "Transport",
+    "merchant": "Lyft",
+    "amount": 79.53,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-04",
+    "category": "Groceries",
+    "merchant": "Costco",
+    "amount": 33.54,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-05",
+    "category": "Dining",
+    "merchant": "Panera",
+    "amount": 11.3,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 267.92,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 157.45,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 187.01,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-09",
+    "category": "Dining",
+    "merchant": "Local Bistro",
+    "amount": 67.96,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-10",
+    "category": "Shopping",
+    "merchant": "Amazon",
+    "amount": 125.35,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-11",
+    "category": "Groceries",
+    "merchant": "Aldi",
+    "amount": 31.7,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-12",
+    "category": "Groceries",
+    "merchant": "Trader Joe's",
+    "amount": 222.53,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-13",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1938.53,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-14",
+    "category": "Dining",
+    "merchant": "The Cheesecake Factory",
+    "amount": 55.59,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-15",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1789.02,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-16",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 142.76,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Transport",
+    "merchant": "BP",
+    "amount": 10.38,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-18",
+    "category": "Entertainment",
+    "merchant": "Disney+",
+    "amount": 15.91,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-19",
+    "category": "Groceries",
+    "merchant": "Safeway",
+    "amount": 111.93,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-20",
+    "category": "Shopping",
+    "merchant": "Amazon",
+    "amount": 185.23,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-21",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 201.88,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-22",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 79.67,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-23",
+    "category": "Entertainment",
+    "merchant": "Hulu",
+    "amount": 25.31,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-24",
+    "category": "Dining",
+    "merchant": "Local Bistro",
+    "amount": 73.38,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-25",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1555.99,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-26",
+    "category": "Dining",
+    "merchant": "McDonald's",
+    "amount": 31.55,
+    "isEssential": false
+  },
+  {
+    "date": "2026-04-27",
+    "category": "Healthcare",
+    "merchant": "Health Insurance",
+    "amount": 109.35,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-28",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 44.3,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-29",
+    "category": "Groceries",
+    "merchant": "Trader Joe's",
+    "amount": 61.95,
+    "isEssential": true
+  },
+  {
+    "date": "2026-04-30",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 110.12,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-01",
+    "category": "Transport",
+    "merchant": "Lyft",
+    "amount": 84.46,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-02",
+    "category": "Dining",
+    "merchant": "Starbucks",
+    "amount": 61.41,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-03",
+    "category": "Transport",
+    "merchant": "Shell Gas",
+    "amount": 69.73,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-04",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 195.18,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-05",
+    "category": "Dining",
+    "merchant": "Panera",
+    "amount": 64,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-06",
+    "category": "Dining",
+    "merchant": "Panera",
+    "amount": 41.47,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-07",
+    "category": "Shopping",
+    "merchant": "Target",
+    "amount": 76.53,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-08",
+    "category": "Healthcare",
+    "merchant": "Dental Clinic",
+    "amount": 118.21,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-09",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 167.67,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-10",
+    "category": "Shopping",
+    "merchant": "Nordstrom",
+    "amount": 16.11,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-11",
+    "category": "Groceries",
+    "merchant": "Safeway",
+    "amount": 237.76,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-12",
+    "category": "Entertainment",
+    "merchant": "Spotify",
+    "amount": 24.82,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-13",
+    "category": "Dining",
+    "merchant": "McDonald's",
+    "amount": 23.7,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-14",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 66.76,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-15",
+    "category": "Healthcare",
+    "merchant": "Walgreens",
+    "amount": 137.36,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-16",
+    "category": "Groceries",
+    "merchant": "Aldi",
+    "amount": 136.46,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-17",
+    "category": "Entertainment",
+    "merchant": "Netflix",
+    "amount": 7.23,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-18",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 2002.96,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-19",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1467.97,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-20",
+    "category": "Dining",
+    "merchant": "McDonald's",
+    "amount": 70.17,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-21",
+    "category": "Transport",
+    "merchant": "Lyft",
+    "amount": 114.53,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-22",
+    "category": "Shopping",
+    "merchant": "Target",
+    "amount": 194.84,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-23",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 101.83,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-24",
+    "category": "Entertainment",
+    "merchant": "Spotify",
+    "amount": 9.54,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-25",
+    "category": "Rent",
+    "merchant": "Property Management Inc.",
+    "amount": 1718.23,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-26",
+    "category": "Dining",
+    "merchant": "Local Bistro",
+    "amount": 15.4,
+    "isEssential": false
+  },
+  {
+    "date": "2026-05-27",
+    "category": "Utilities",
+    "merchant": "City Utilities",
+    "amount": 155.88,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-28",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 1564.62,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-29",
+    "category": "Groceries",
+    "merchant": "Costco",
+    "amount": 220.19,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-30",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1341.81,
+    "isEssential": true
+  },
+  {
+    "date": "2026-05-31",
+    "category": "Groceries",
+    "merchant": "Costco",
+    "amount": 120.26,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-01",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 111.28,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-02",
+    "category": "Groceries",
+    "merchant": "Whole Foods",
+    "amount": 186.07,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-03",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 62.51,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-04",
+    "category": "Transport",
+    "merchant": "Parking Garage",
+    "amount": 81.74,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-05",
+    "category": "Dining",
+    "merchant": "Panera",
+    "amount": 17.69,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-06",
+    "category": "Dining",
+    "merchant": "The Cheesecake Factory",
+    "amount": 25.19,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-07",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 119.35,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-08",
+    "category": "Healthcare",
+    "merchant": "CVS Pharmacy",
+    "amount": 100.42,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-09",
+    "category": "Groceries",
+    "merchant": "Aldi",
+    "amount": 80.62,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-10",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 191.17,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-11",
+    "category": "Utilities",
+    "merchant": "PG&E",
+    "amount": 123.57,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-12",
+    "category": "Entertainment",
+    "merchant": "Spotify",
+    "amount": 49.58,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-13",
+    "category": "Dining",
+    "merchant": "The Cheesecake Factory",
+    "amount": 79.16,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-14",
+    "category": "Healthcare",
+    "merchant": "Walgreens",
+    "amount": 10.01,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-15",
+    "category": "Healthcare",
+    "merchant": "Health Insurance",
+    "amount": 138.73,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-16",
+    "category": "Entertainment",
+    "merchant": "Hulu",
+    "amount": 16.7,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-17",
+    "category": "Entertainment",
+    "merchant": "Disney+",
+    "amount": 12.01,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-18",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 69.65,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-19",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 1872.91,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-20",
+    "category": "Shopping",
+    "merchant": "Etsy",
+    "amount": 185.64,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-21",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1973.6,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-22",
+    "category": "Entertainment",
+    "merchant": "Disney+",
+    "amount": 26.86,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-23",
+    "category": "Entertainment",
+    "merchant": "Ticketmaster",
+    "amount": 27.26,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-24",
+    "category": "Healthcare",
+    "merchant": "CVS Pharmacy",
+    "amount": 40.88,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-25",
+    "category": "Rent",
+    "merchant": "Property Management Inc.",
+    "amount": 1569.48,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-26",
+    "category": "Shopping",
+    "merchant": "Best Buy",
+    "amount": 21.28,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-27",
+    "category": "Healthcare",
+    "merchant": "Dental Clinic",
+    "amount": 18.25,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-28",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 83.91,
+    "isEssential": true
+  },
+  {
+    "date": "2026-06-29",
+    "category": "Transport",
+    "merchant": "City Metro",
+    "amount": 83.83,
+    "isEssential": false
+  },
+  {
+    "date": "2026-06-30",
+    "category": "Dining",
+    "merchant": "The Cheesecake Factory",
+    "amount": 46.71,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-01",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 249.44,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-02",
+    "category": "Utilities",
+    "merchant": "PG&E",
+    "amount": 186.62,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-03",
+    "category": "Shopping",
+    "merchant": "Best Buy",
+    "amount": 47.52,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-04",
+    "category": "Transport",
+    "merchant": "City Metro",
+    "amount": 22.11,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-05",
+    "category": "Shopping",
+    "merchant": "Target",
+    "amount": 113.8,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-06",
+    "category": "Entertainment",
+    "merchant": "Spotify",
+    "amount": 40.61,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-07",
+    "category": "Groceries",
+    "merchant": "Aldi",
+    "amount": 145.93,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-08",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 14.9,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-09",
+    "category": "Dining",
+    "merchant": "Panera",
+    "amount": 43.42,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-10",
+    "category": "Entertainment",
+    "merchant": "Spotify",
+    "amount": 20.65,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-11",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 133.76,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-12",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 263.12,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-13",
+    "category": "Healthcare",
+    "merchant": "Dental Clinic",
+    "amount": 122.76,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-14",
+    "category": "Utilities",
+    "merchant": "AT&T",
+    "amount": 229.34,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-15",
+    "category": "Utilities",
+    "merchant": "PG&E",
+    "amount": 179.03,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-16",
+    "category": "Shopping",
+    "merchant": "Target",
+    "amount": 101.05,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-17",
+    "category": "Entertainment",
+    "merchant": "AMC Theaters",
+    "amount": 11.7,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-18",
+    "category": "Transport",
+    "merchant": "Shell Gas",
+    "amount": 82.97,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-19",
+    "category": "Transport",
+    "merchant": "Uber",
+    "amount": 13.51,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-20",
+    "category": "Utilities",
+    "merchant": "AT&T",
+    "amount": 289.99,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-21",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 97.63,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-22",
+    "category": "Entertainment",
+    "merchant": "Spotify",
+    "amount": 25.72,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-23",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 72.24,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-24",
+    "category": "Entertainment",
+    "merchant": "Disney+",
+    "amount": 6.74,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-25",
+    "category": "Dining",
+    "merchant": "Starbucks",
+    "amount": 75.81,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-26",
+    "category": "Healthcare",
+    "merchant": "CVS Pharmacy",
+    "amount": 147.36,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-27",
+    "category": "Shopping",
+    "merchant": "Best Buy",
+    "amount": 187.37,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-28",
+    "category": "Healthcare",
+    "merchant": "Walgreens",
+    "amount": 101.89,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-29",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 94.84,
+    "isEssential": true
+  },
+  {
+    "date": "2026-07-30",
+    "category": "Entertainment",
+    "merchant": "Spotify",
+    "amount": 24.53,
+    "isEssential": false
+  },
+  {
+    "date": "2026-07-31",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 105.89,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-01",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 2056.4,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-02",
+    "category": "Dining",
+    "merchant": "Chipotle",
+    "amount": 75.91,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-03",
+    "category": "Healthcare",
+    "merchant": "Dental Clinic",
+    "amount": 12.37,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-04",
+    "category": "Dining",
+    "merchant": "Panera",
+    "amount": 71.04,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-05",
+    "category": "Entertainment",
+    "merchant": "AMC Theaters",
+    "amount": 20.08,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-06",
+    "category": "Groceries",
+    "merchant": "Whole Foods",
+    "amount": 239.58,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-07",
+    "category": "Shopping",
+    "merchant": "Amazon",
+    "amount": 53.3,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-08",
+    "category": "Utilities",
+    "merchant": "AT&T",
+    "amount": 252.58,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-09",
+    "category": "Dining",
+    "merchant": "Local Bistro",
+    "amount": 24.4,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-10",
+    "category": "Transport",
+    "merchant": "BP",
+    "amount": 116.41,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-11",
+    "category": "Utilities",
+    "merchant": "City Utilities",
+    "amount": 179.69,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-12",
+    "category": "Shopping",
+    "merchant": "Amazon",
+    "amount": 15.38,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-13",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 55.97,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-14",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 1697.08,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-15",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 171.16,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-16",
+    "category": "Groceries",
+    "merchant": "Safeway",
+    "amount": 132.71,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-17",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 2376.54,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-18",
+    "category": "Entertainment",
+    "merchant": "Netflix",
+    "amount": 16.37,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-19",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1639.89,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-20",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 176.02,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-21",
+    "category": "Healthcare",
+    "merchant": "Walgreens",
+    "amount": 95.64,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-22",
+    "category": "Shopping",
+    "merchant": "Etsy",
+    "amount": 68.66,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-23",
+    "category": "Utilities",
+    "merchant": "PG&E",
+    "amount": 269.79,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-24",
+    "category": "Groceries",
+    "merchant": "Aldi",
+    "amount": 248.82,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-25",
+    "category": "Transport",
+    "merchant": "Lyft",
+    "amount": 75.41,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-26",
+    "category": "Transport",
+    "merchant": "City Metro",
+    "amount": 28.98,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-27",
+    "category": "Healthcare",
+    "merchant": "Dental Clinic",
+    "amount": 16.1,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-28",
+    "category": "Utilities",
+    "merchant": "PG&E",
+    "amount": 56.83,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-29",
+    "category": "Transport",
+    "merchant": "City Metro",
+    "amount": 104.6,
+    "isEssential": false
+  },
+  {
+    "date": "2026-08-30",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 186.22,
+    "isEssential": true
+  },
+  {
+    "date": "2026-08-31",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 1562.29,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-01",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 182.75,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-02",
+    "category": "Dining",
+    "merchant": "McDonald's",
+    "amount": 48.58,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-03",
+    "category": "Healthcare",
+    "merchant": "Dental Clinic",
+    "amount": 39.34,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-04",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 2199.65,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-05",
+    "category": "Transport",
+    "merchant": "BP",
+    "amount": 75.68,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-06",
+    "category": "Shopping",
+    "merchant": "Best Buy",
+    "amount": 181.09,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-07",
+    "category": "Healthcare",
+    "merchant": "Health Insurance",
+    "amount": 115.64,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-08",
+    "category": "Dining",
+    "merchant": "McDonald's",
+    "amount": 28.16,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-09",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 238.6,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-10",
+    "category": "Groceries",
+    "merchant": "Aldi",
+    "amount": 158.9,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-11",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 130.62,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-12",
+    "category": "Transport",
+    "merchant": "Parking Garage",
+    "amount": 93.1,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-13",
+    "category": "Transport",
+    "merchant": "Lyft",
+    "amount": 109.46,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-14",
+    "category": "Dining",
+    "merchant": "The Cheesecake Factory",
+    "amount": 75.43,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-15",
+    "category": "Dining",
+    "merchant": "Starbucks",
+    "amount": 69.33,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-16",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 64.04,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-17",
+    "category": "Dining",
+    "merchant": "Local Bistro",
+    "amount": 68.15,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-18",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 26.01,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-19",
+    "category": "Groceries",
+    "merchant": "Trader Joe's",
+    "amount": 232.48,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-20",
+    "category": "Healthcare",
+    "merchant": "Health Insurance",
+    "amount": 32.21,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-21",
+    "category": "Entertainment",
+    "merchant": "Spotify",
+    "amount": 16.29,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-22",
+    "category": "Utilities",
+    "merchant": "City Utilities",
+    "amount": 131.23,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-23",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 106.34,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-24",
+    "category": "Entertainment",
+    "merchant": "Spotify",
+    "amount": 26.29,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-25",
+    "category": "Transport",
+    "merchant": "Uber",
+    "amount": 103.24,
+    "isEssential": false
+  },
+  {
+    "date": "2026-09-26",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 47.52,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-27",
+    "category": "Healthcare",
+    "merchant": "Walgreens",
+    "amount": 107.11,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-28",
+    "category": "Utilities",
+    "merchant": "City Utilities",
+    "amount": 99.79,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-29",
+    "category": "Healthcare",
+    "merchant": "CVS Pharmacy",
+    "amount": 77.92,
+    "isEssential": true
+  },
+  {
+    "date": "2026-09-30",
+    "category": "Dining",
+    "merchant": "Starbucks",
+    "amount": 67.66,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-01",
+    "category": "Rent",
+    "merchant": "Property Management Inc.",
+    "amount": 1455.2,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-02",
+    "category": "Shopping",
+    "merchant": "Etsy",
+    "amount": 64.57,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-03",
+    "category": "Utilities",
+    "merchant": "PG&E",
+    "amount": 230.87,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-04",
+    "category": "Entertainment",
+    "merchant": "Disney+",
+    "amount": 22.13,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-05",
+    "category": "Healthcare",
+    "merchant": "Doctor's Office",
+    "amount": 58.84,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-06",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 107.44,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-07",
+    "category": "Dining",
+    "merchant": "Local Bistro",
+    "amount": 43.49,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-08",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 123.7,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-09",
+    "category": "Transport",
+    "merchant": "Parking Garage",
+    "amount": 83.53,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-10",
+    "category": "Dining",
+    "merchant": "Chipotle",
+    "amount": 23.74,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-11",
+    "category": "Entertainment",
+    "merchant": "AMC Theaters",
+    "amount": 49.68,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-12",
+    "category": "Shopping",
+    "merchant": "Amazon",
+    "amount": 191.13,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-13",
+    "category": "Transport",
+    "merchant": "BP",
+    "amount": 54.56,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-14",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 218.49,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-15",
+    "category": "Healthcare",
+    "merchant": "Dental Clinic",
+    "amount": 125.04,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-16",
+    "category": "Groceries",
+    "merchant": "Aldi",
+    "amount": 174.05,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-17",
+    "category": "Groceries",
+    "merchant": "Costco",
+    "amount": 165.12,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-18",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 135.25,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-19",
+    "category": "Dining",
+    "merchant": "Chipotle",
+    "amount": 34.32,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-20",
+    "category": "Transport",
+    "merchant": "Lyft",
+    "amount": 43.8,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-21",
+    "category": "Shopping",
+    "merchant": "Nordstrom",
+    "amount": 147.97,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-22",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 152.72,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-23",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 142.26,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-24",
+    "category": "Entertainment",
+    "merchant": "Hulu",
+    "amount": 41.45,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-25",
+    "category": "Transport",
+    "merchant": "Shell Gas",
+    "amount": 31.49,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-26",
+    "category": "Dining",
+    "merchant": "Chipotle",
+    "amount": 13.84,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-27",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 26.23,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-28",
+    "category": "Healthcare",
+    "merchant": "Walgreens",
+    "amount": 47.54,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-29",
+    "category": "Dining",
+    "merchant": "Local Bistro",
+    "amount": 16.1,
+    "isEssential": false
+  },
+  {
+    "date": "2026-10-30",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 217,
+    "isEssential": true
+  },
+  {
+    "date": "2026-10-31",
+    "category": "Shopping",
+    "merchant": "Target",
+    "amount": 139.68,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-01",
+    "category": "Utilities",
+    "merchant": "City Utilities",
+    "amount": 267.64,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-02",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 238.3,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-03",
+    "category": "Transport",
+    "merchant": "Shell Gas",
+    "amount": 59.91,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-04",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 123.05,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-05",
+    "category": "Dining",
+    "merchant": "Chipotle",
+    "amount": 40.35,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-06",
+    "category": "Groceries",
+    "merchant": "Costco",
+    "amount": 113.19,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-07",
+    "category": "Entertainment",
+    "merchant": "Netflix",
+    "amount": 28.47,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-08",
+    "category": "Groceries",
+    "merchant": "Whole Foods",
+    "amount": 104.6,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-09",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 17.74,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-10",
+    "category": "Dining",
+    "merchant": "Panera",
+    "amount": 61.16,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-11",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 80.17,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-12",
+    "category": "Shopping",
+    "merchant": "Walmart",
+    "amount": 149.53,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-13",
+    "category": "Transport",
+    "merchant": "Shell Gas",
+    "amount": 18.8,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-14",
+    "category": "Groceries",
+    "merchant": "Costco",
+    "amount": 129.51,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-15",
+    "category": "Healthcare",
+    "merchant": "Walgreens",
+    "amount": 44.99,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-16",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 2028.57,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-17",
+    "category": "Groceries",
+    "merchant": "Aldi",
+    "amount": 121.61,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-18",
+    "category": "Entertainment",
+    "merchant": "AMC Theaters",
+    "amount": 29.71,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-19",
+    "category": "Entertainment",
+    "merchant": "AMC Theaters",
+    "amount": 29.93,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-20",
+    "category": "Entertainment",
+    "merchant": "Ticketmaster",
+    "amount": 39.28,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-21",
+    "category": "Dining",
+    "merchant": "The Cheesecake Factory",
+    "amount": 50.81,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-22",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 82.64,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-23",
+    "category": "Entertainment",
+    "merchant": "Hulu",
+    "amount": 22.94,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-24",
+    "category": "Entertainment",
+    "merchant": "Netflix",
+    "amount": 21.98,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-25",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 101.45,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-26",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 1312.84,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-27",
+    "category": "Entertainment",
+    "merchant": "Netflix",
+    "amount": 34.63,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-28",
+    "category": "Dining",
+    "merchant": "The Cheesecake Factory",
+    "amount": 27.03,
+    "isEssential": false
+  },
+  {
+    "date": "2026-11-29",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 51.04,
+    "isEssential": true
+  },
+  {
+    "date": "2026-11-30",
+    "category": "Rent",
+    "merchant": "Property Management Inc.",
+    "amount": 1843.55,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-01",
+    "category": "Rent",
+    "merchant": "Landlord LLC",
+    "amount": 1849.92,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-02",
+    "category": "Groceries",
+    "merchant": "Trader Joe's",
+    "amount": 137.59,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-03",
+    "category": "Transport",
+    "merchant": "Uber",
+    "amount": 81.5,
+    "isEssential": false
+  },
+  {
+    "date": "2026-12-04",
+    "category": "Rent",
+    "merchant": "Property Management Inc.",
+    "amount": 2246.93,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-05",
+    "category": "Groceries",
+    "merchant": "Costco",
+    "amount": 185.38,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-06",
+    "category": "Entertainment",
+    "merchant": "Netflix",
+    "amount": 26.46,
+    "isEssential": false
+  },
+  {
+    "date": "2026-12-07",
+    "category": "Utilities",
+    "merchant": "Comcast",
+    "amount": 204.44,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-08",
+    "category": "Entertainment",
+    "merchant": "AMC Theaters",
+    "amount": 53.03,
+    "isEssential": false
+  },
+  {
+    "date": "2026-12-09",
+    "category": "Rent",
+    "merchant": "Property Management Inc.",
+    "amount": 1775.47,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-10",
+    "category": "Healthcare",
+    "merchant": "Walgreens",
+    "amount": 37.02,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-11",
+    "category": "Groceries",
+    "merchant": "Trader Joe's",
+    "amount": 101.29,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-12",
+    "category": "Transport",
+    "merchant": "BP",
+    "amount": 14.71,
+    "isEssential": false
+  },
+  {
+    "date": "2026-12-13",
+    "category": "Healthcare",
+    "merchant": "Walgreens",
+    "amount": 30.87,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-14",
+    "category": "Transport",
+    "merchant": "City Metro",
+    "amount": 43.8,
+    "isEssential": false
+  },
+  {
+    "date": "2026-12-15",
+    "category": "Utilities",
+    "merchant": "Water Works",
+    "amount": 275.55,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-16",
+    "category": "Healthcare",
+    "merchant": "CVS Pharmacy",
+    "amount": 31.05,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-17",
+    "category": "Utilities",
+    "merchant": "PG&E",
+    "amount": 255.46,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-18",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 1257.5,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-19",
+    "category": "Dining",
+    "merchant": "Chipotle",
+    "amount": 20.94,
+    "isEssential": false
+  },
+  {
+    "date": "2026-12-20",
+    "category": "Entertainment",
+    "merchant": "AMC Theaters",
+    "amount": 55.39,
+    "isEssential": false
+  },
+  {
+    "date": "2026-12-21",
+    "category": "Utilities",
+    "merchant": "AT&T",
+    "amount": 70.52,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-22",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 1928.55,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-23",
+    "category": "Shopping",
+    "merchant": "Amazon",
+    "amount": 30.55,
+    "isEssential": false
+  },
+  {
+    "date": "2026-12-24",
+    "category": "Groceries",
+    "merchant": "Whole Foods",
+    "amount": 232.84,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-25",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 2159.57,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-26",
+    "category": "Rent",
+    "merchant": "Apartment Complex",
+    "amount": 2329.1,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-27",
+    "category": "Dining",
+    "merchant": "Starbucks",
+    "amount": 56.98,
+    "isEssential": false
+  },
+  {
+    "date": "2026-12-28",
+    "category": "Groceries",
+    "merchant": "Kroger",
+    "amount": 44.65,
+    "isEssential": true
+  },
+  {
+    "date": "2026-12-29",
+    "category": "Dining",
+    "merchant": "Local Bistro",
+    "amount": 43.9,
+    "isEssential": false
+  },
+  {
+    "date": "2026-12-30",
+    "category": "Transport",
+    "merchant": "Lyft",
+    "amount": 58.41,
+    "isEssential": false
+  },
+  {
+    "date": "2026-12-31",
+    "category": "Dining",
+    "merchant": "The Cheesecake Factory",
+    "amount": 11.88,
+    "isEssential": false
+  }
+]
